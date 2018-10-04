@@ -1,0 +1,27 @@
+"*":
+  autosave:
+    enabled: true
+  core:
+    allowPendingPaneItems: false
+    packagesWithKeymapsDisabled: []
+    telemetryConsent: "limited"
+  editor:
+    preferredLineLength: 120
+  "exception-reporting":
+    userId: "802b1351-b0e2-41ed-93bf-495bcfb250ca"
+  "git-blame":
+    columnWidth: 353
+  jslint:
+    validateOnChange: true
+    validateOnSave: false
+  "linter-ui-default":
+    alwaysTakeMinimumSpace: true
+    showPanel: true
+  "prettier-atom":
+    formatOnSaveOptions: {}
+    useEslint: true
+  "ruby-block":
+    highlightLineNumber: true
+    showBottomPanel: false
+  welcome:
+    showOnStartup: false

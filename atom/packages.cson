@@ -1,0 +1,16 @@
+packages: [
+  "busy-signal"
+  "file-icons"
+  "git-blame"
+  "intentions"
+  "jslint"
+  "language-babel"
+  "language-cjsx"
+  "language-haml"
+  "linter"
+  "linter-eslint"
+  "linter-ui-default"
+  "package-sync"
+  "prettier-atom"
+  "ruby-block"
+]
